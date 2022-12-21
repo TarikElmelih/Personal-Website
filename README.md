@@ -1,5 +1,6 @@
-My Personal Website
-Welcome to my personal website! This site is intended to serve as a portfolio of my work and a place for me to share my thoughts and ideas.
+<h1>My Personal Website</h1>
+
+<p>Welcome to my personal website! This site is intended to serve as a portfolio of my work and a place for me to share my thoughts and ideas.</p>
 
 
 
@@ -17,22 +18,38 @@ Welcome to my personal website! This site is intended to serve as a portfolio of
 
 <br>
 
-Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+<h2>Getting Started</h2>
 
-Prerequisites
-A web browser (e.g. Google Chrome, Firefox)
-Installing
-Fork this repository to your own GitHub account
-Clone the repository to your local machine
-Open the index.html file in your web browser to view the site
-Built With
-HTML - The markup language used for creating the structure of the web page
-CSS - The style sheet language used for styling the web page
-Contributing
-If you have any suggestions or bug reports, please open an issue on this repository. I welcome any contributions to improve the site.
+<p>These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.</p>
 
-Author
-Your Name - Creator and maintainer of the site
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+<h3>Prerequisites</h3>
+
+<ul>
+  <li>A web browser (e.g. Google Chrome, Firefox)</li>
+</ul>
+
+<h3>Installing</h3>
+
+<ol>
+  <li>Fork this repository to your own GitHub account</li>
+  <li>Clone the repository to your local machine</li>
+  <li>Open the <code>index.html</code> file in your web browser to view the site</li>
+</ol>
+
+<h2>Built With</h2>
+
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/HTML">HTML</a> - The markup language used for creating the structure of the web page</li>
+  <li><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a> - The style sheet language used for styling the web page</li>
+</ul>
+
+<h2>Contributing</h2>
+
+<p>If you have any suggestions or bug reports, please open an issue on this repository. I welcome any contributions to improve the site.</p>
+
+<h2>Author</h2>
+
+<ul>
+  <li><a href="https://github.com/TarikElmelih">Tarik Elmelih</a> - Creator and maintainer of the site</li>
+</ul>
+
